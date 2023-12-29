@@ -1,0 +1,73 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>divahar Resume</title>
+    </head>
+    <body>
+        <h1 align="center">Resume</h1><hr>
+        <img src="c:\Users\Lenovo\OneDrive\Desktop\OneDrive\Pictures\divahar photo.jpg" width="150px" align="left">
+        <caption>M. Divahar</caption><br>
+        <caption>Gender : male</caption><br>
+        <caption>D.O.B : 04-09-2000</caption><br>
+        <caption>Address : Coimbatore</caption><br>
+        <caption>Contact : 6380033686</caption><br>
+        <caption>Email ID : divaharm10@gmail.Com</caption>
+        <br><br><br>
+        <br><br>
+        <br>
+        <h2 align="left">Objective</h2>
+        <p>Im looking forward to working as an IT specialist at an Information Technology firm that values
+             my technical and analytical abilities while also supporting my personal development.
+            Seeking a challenging position at your Company where my skills 
+            can be leveraged to contribute to the company's success. Eager to bring my passion for [industry/field]
+             and dedication to achieving results to a dynamic team that values innovation and excellence.
+        </p>
+        <h2>Education Details</h2>
+        <table border="1">
+            <tr>
+                <th>Course</th>
+                <th>School/Institution</th>
+                <th>Board/University</th>
+                <th>Year of Passing</th>
+                <th>Percentage</th>
+             </tr>
+             <tr>
+                <td>sslc</td>
+                <td>S.B.K boys.hr.sec.school</td>
+                <td>State Board And Goverment</td>
+                <td>2015</td>
+                <td>98%</td>
+             </tr>
+             <tr>
+                <td>Higher Secondary</td>
+                <td>Govt.boys.hr.sec.school</td>
+                <td>State Board</td>
+                <td>2017</td>
+                <td>98%</td>
+             </tr>
+             <tr>
+                <td>B.Com (pA)</td>
+                <td>Goverment Arts And Science College</td>
+                <td>Bharathiar University</td>
+                <td>2020</td>
+                <td>75%</td>
+             </tr>
+        </table>
+        <h2>Skills</h2>
+        <ol type="1">
+            <li>HTML</li>
+            <li>CSS</li>
+            <li>BOOTSTRAP</li>
+            <li>REACT JS</li>           
+        </ol>
+        <h2>Language Know</h2>
+        <ul>
+            <li>Tamil</li>
+            <li>English</li>
+            <li>Hindi</li>
+        </ul>
+
+    </body>
+</html>
